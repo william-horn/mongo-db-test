@@ -35,4 +35,5 @@ mongoose.connect(
     console.log(userTwo);
 
 
+    process.exit(0);
 })();
